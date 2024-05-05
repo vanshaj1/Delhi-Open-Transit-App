@@ -73,4 +73,5 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
     implementation("androidx.core:core-splashscreen:1.0.0")
+    implementation("com.google.android.gms:play-services-location:21.2.0")
 }
