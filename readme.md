@@ -40,11 +40,11 @@ the city.
 # User Interface:
 * Splash Screen: Introduces the app.
 
-<img height="400" src="./UI Images/1.jpg" width="200"/><br/>
+    <img height="400" src="./UI Images/1.jpg" width="200"/><br/>
 
 * Home Screen: Central hub of the app.
 
-<img height="400" src="./UI Images/2.jpg" width="200"/><br/>
+    <img height="400" src="./UI Images/2.jpg" width="200"/><br/>
 
 * Yes/No Screen: Asks if the user is currently traveling.
     
