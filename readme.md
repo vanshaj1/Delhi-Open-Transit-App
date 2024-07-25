@@ -48,29 +48,29 @@ the city.
 
 * Yes/No Screen: Asks if the user is currently traveling.
     
-<img height="400" src="./UI Images/3.jpg" width="200"/>
+    <img height="400" src="./UI Images/3.jpg" width="200"/>
     
     * if selected No then :
          * User Can ask which route buses go to destination from source
              
-<img height="400" src="./UI Images/5.jpg" width="200"/>
+        <img height="400" src="./UI Images/5.jpg" width="200"/>
          
          * All buses that go to destination from source
              
-<img height="400" src="./UI Images/6.jpg" width="200"/>
+        <img height="400" src="./UI Images/6.jpg" width="200"/>
          
          * Can click each bus and can see detailed view
              
-<img height="400" src="./UI Images/7.jpg" width="200"/>
+        <img height="400" src="./UI Images/7.jpg" width="200"/>
     
     * if Selected yes then:  
         * Users will be asked about the current bus they are in and what is their destination
              
-<img height="400" src="./UI Images/8.jpg" width="200"/>
+        <img height="400" src="./UI Images/8.jpg" width="200"/>
         
         * Based on information recived about bus and destination **Live bus location tracking** will start
              
-<img height="400" src="./UI Images/9.jpg" width="200"/>
+        <img height="400" src="./UI Images/9.jpg" width="200"/>
 
 # Main Features:
 * Live Location Tracking
