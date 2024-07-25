@@ -40,37 +40,37 @@ the city.
 # User Interface:
 * Splash Screen: Introduces the app.
 
-<img height="400" src="./UI Images/1.jpg" width="200"/>
+<img height="400" src="./UI Images/1.jpg" width="200"/><br/>
 
 * Home Screen: Central hub of the app.
 
-<img height="400" src="./UI Images/2.jpg" width="200"/>
+<img height="400" src="./UI Images/2.jpg" width="200"/><br/>
 
 * Yes/No Screen: Asks if the user is currently traveling.
     
-    <img height="400" src="./UI Images/3.jpg" width="200"/>
+    <img height="400" src="./UI Images/3.jpg" width="200"/><br/>
     
     * if selected No then :
          * User Can ask which route buses go to destination from source
              
-        <img height="400" src="./UI Images/5.jpg" width="200"/>
+            <img height="400" src="./UI Images/5.jpg" width="200"/><br/>
          
          * All buses that go to destination from source
              
-        <img height="400" src="./UI Images/6.jpg" width="200"/>
+            <img height="400" src="./UI Images/6.jpg" width="200"/><br/>
          
          * Can click each bus and can see detailed view
              
-        <img height="400" src="./UI Images/7.jpg" width="200"/>
+            <img height="400" src="./UI Images/7.jpg" width="200"/><br/>
     
     * if Selected yes then:  
         * Users will be asked about the current bus they are in and what is their destination
              
-        <img height="400" src="./UI Images/8.jpg" width="200"/>
+            <img height="400" src="./UI Images/8.jpg" width="200"/><br/>
         
         * Based on information recived about bus and destination **Live bus location tracking** will start
              
-        <img height="400" src="./UI Images/9.jpg" width="200"/>
+            <img height="400" src="./UI Images/9.jpg" width="200"/><br/>
 
 # Main Features:
 * Live Location Tracking
